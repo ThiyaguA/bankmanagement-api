@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15690bc7-f8f7-4b7a-9ec0-2cad2e0495b3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/bankmanagement-api">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/bankmanagement-api">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="bankmanagement-api" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="bankmanagement-api" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="bankmanagement-api" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="bankmanagement-api" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2YYk04xh6KEcOMsAOuXjdsIZeTu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/HP/Downloads/reporting",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Downloads\bankmanagement-api\bankmanagement-api\src\main\java\com\bankmanagement\bankmanagementapi" />
+      <recent name="C:\Users\HP\Downloads\bankmanagement-api\bankmanagement-api\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bankmanagement.bankmanagementapi" />
+      <recent name="com.bankmanagement.bankmanagementapi.service" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SatScoreTest.test2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/bankmanagement-api" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.bankmanagement.bankmanagementapi.SatScoreTest.test2&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="BankControllerTest.findBankDetailsById_When_Id_is_NotNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bankmanagement-api.bankmanagement-api.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bankmanagement.bankmanagementapi.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bankmanagement.bankmanagementapi.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.bankmanagement.bankmanagementapi.controller.BankControllerTest" />
+      <option name="METHOD_NAME" value="findBankDetailsById_When_Id_is_NotNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankControllerTest.findBankDetailsById_When_Id_is_Null" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bankmanagement-api.bankmanagement-api.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bankmanagement.bankmanagementapi.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bankmanagement.bankmanagementapi.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.bankmanagement.bankmanagementapi.controller.BankControllerTest" />
+      <option name="METHOD_NAME" value="findBankDetailsById_When_Id_is_Null" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankControllerTest.getByName_When_it_isNotNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bankmanagement-api.bankmanagement-api.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bankmanagement.bankmanagementapi.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bankmanagement.bankmanagementapi.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.bankmanagement.bankmanagementapi.controller.BankControllerTest" />
+      <option name="METHOD_NAME" value="getByName_When_it_isNotNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankRepoTest.bankDetailsSaving" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bankmanagement-api.bankmanagement-api.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bankmanagement.bankmanagementapi.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bankmanagement.bankmanagementapi.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.bankmanagement.bankmanagementapi.repository.BankRepoTest" />
+      <option name="METHOD_NAME" value="bankDetailsSaving" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BankControllerTest.getByName_When_it_isNotNull" />
+        <item itemvalue="JUnit.BankControllerTest.findBankDetailsById_When_Id_is_Null" />
+        <item itemvalue="JUnit.BankControllerTest.findBankDetailsById_When_Id_is_NotNull" />
+        <item itemvalue="JUnit.BankRepoTest.bankDetailsSaving" />
+        <item itemvalue="Gradle.SatScoreTest.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15690bc7-f8f7-4b7a-9ec0-2cad2e0495b3" name="Changes" comment="" />
+      <created>1700709674106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700709674106</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/bankmanagement_api$BankServiceImplTest_findAllBanks_returnValid_AllBanks.ic" NAME="BankServiceImplTest.findAllBanks_returnValid_AllBanks Coverage Results" MODIFIED="1703309389709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/bankmanagement_api$BankServiceImplTest.ic" NAME="BankServiceImplTest Coverage Results" MODIFIED="1703308971425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/bankmanagement_api$SatScoreTest_test2.ic" NAME="SatScoreTest.test2 Coverage Results" MODIFIED="1703417070107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/bankmanagement_api$Tests_in__bankmanagement_api_bankmanagement_api_test_1_.ic" NAME="Tests in 'bankmanagement-api.bankmanagement-api.test~1' Coverage Results" MODIFIED="1703308998941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/bankmanagement_api$BankManagementApiApplicationTests.ic" NAME="BankManagementApiApplicationTests Coverage Results" MODIFIED="1703261895883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/bankmanagement_api$BankServiceImplTest_findAllBanks_returnInValid_AllBanks.ic" NAME="BankServiceImplTest.findAllBanks_returnInValid_AllBanks Coverage Results" MODIFIED="1703262014730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/bankmanagement_api$BankServiceImplTest_findAllBanks_returnValid_AllBanksAndBranches.ic" NAME="BankServiceImplTest.findAllBanks_returnValid_AllBanksAndBranches Coverage Results" MODIFIED="1703261962329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/bankmanagement_api$BankControllerTest_findBankDetailsById_When_Id_is_Null.ic" NAME="BankControllerTest.findBankDetailsById_When_Id_is_Null Coverage Results" MODIFIED="1703741365115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bankmanagement.bankmanagementapi.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/bankmanagement_api$BankServiceImplTest_findByBankCode_WhenInValidDetailsEntered_ReturnBankDetails.ic" NAME="BankServiceImplTest.findByBankCode_WhenInValidDetailsEntered_ReturnBankDetails Coverage Results" MODIFIED="1703227792431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/bankmanagement_api$TestBankManagementApiApplication.ic" NAME="TestBankManagementApiApplication Coverage Results" MODIFIED="1703261853107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bankmanagement.bankmanagementapi.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/bankmanagement_api$BankRepoTest_bankDetailsSaving.ic" NAME="BankRepoTest.bankDetailsSaving Coverage Results" MODIFIED="1703740016961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bankmanagement.bankmanagementapi.repository.*</FILTER>
+    </SUITE>
+  </component>
+</project>

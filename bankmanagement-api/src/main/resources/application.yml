@@ -1,0 +1,33 @@
+server:
+  port: 9090
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/bankManagement?ServerTimezone=UTC
+    username: root
+    password: Thiyaguanto@1220#
+    driver-class-name: com.mysql.cj.jdbc.Driver
+#  jpa:
+#    hibernate:
+#      ddl-auto: update
+#    properties:
+#      hibernate:
+#        dialect: org.hibernate.dialect.MySQL57Dialect
+
+logging:
+#  level:
+#    org.springframework: DEBUG
+
+  file:
+    name: myLogs
+    max-history: 10
+
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: info,health,metrics,loggers,beans,mappings,threaddump,env,caches
+  endpoint:
+    health:
+      show-details: always
